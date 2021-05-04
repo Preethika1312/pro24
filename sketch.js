@@ -28,6 +28,8 @@ function setup(){
     sand8 = new sand1(525,445,10);
     sand9 = new sand1(530,445,10);
     sand10 = new sand1(535,445,10);
+    sand11 = new sand1(530,445,10);
+    sand12 = new sand1(535,445,10);
 
 }
 
